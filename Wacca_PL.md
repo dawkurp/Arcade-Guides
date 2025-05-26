@@ -11,6 +11,22 @@ Wyniki nie są przechowywane na karcie, ale karta jest używana jako klucz dost�
 
 Zalecenia co do postowania na mediach społecznościowych: nie wrzucać publicznie nagrań z gry ani zdjęć z widocznym ekranem innym niż attract loop (ekran poza czasem aktywnego grania przez kogoś na automacie).
 
+## tl;dr
+
+Aby zacząć kredyt albo odczytaj kartę (świecący na biało czytnik poniżej kontrolera) albo dotknij przycisku na dole kontrolera aby zacząć kredyt gościa.  
+Tutorial można pominąć przyciskiem po prawej stronie, ale pokazuje wszystkie typy nutek i podstawowe mechaniki więc warto raz obejrzeć.  
+Piosenki wybieramy obracając za białą część pierścienia lub przyciskami na 5:30 i 7:30 pierścienia.  
+Przy wyborze piosenki trudność zmienia się przyciskami po lewej.  
+Kategorie można szybko zmieniać przyciskami po lewej i prawej stronie pierścienia na górze.  
+
+Po wyborze piosenki można jeszcze ostatni raz zmienić trudność albo wejść w ustawienia przed rozpoczęciem piosenki.  
+Nutki lecą ze środka ekranu do różowej linii na skraju ekranu. Dotykamy kiedy docierają do linii.
+
+Po zakończonej piosence jest ekran z wynikiem piosenki zanim wraca się do wyboru piosenki.
+
+Kredyt ma **3 piosenki** i ekran z podsumowaniem wyników.
+
+
 ## Podstawy
 
 Wacca to gra rytmiczna, w której na jeden kredyt ma się do zagrania 3 piosenki.
