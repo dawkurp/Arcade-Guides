@@ -3,13 +3,16 @@
 Typ gry: rytmiczna, dotykowa  
 Zalecane dodatki: rękawiczki, karta kompatybilna z Amusement IC
 
+<details>
+  <summary>Szczegóły co do dodatków</summary>
 Rękawiczki: zalecane aby dłonie lepiej się ślizgały po kontrolerze, przykładowo można użyć cienkich bawełnianych rękawiczek jak te do kosmetyków z Rossmanna albo cienkie zimowe rękawiczki ze sztucznych materiałów.
-Niektórzy gracze używają również innych sztucznych rękawiczek.
+Niektórzy gracze używają również innych sztucznych rękawiczek, na przykład tzw. ślubne.
 
 Karta: najłatwiej użyć faktycznej karty AIC kupionej z Japonii, Korei czy USA gdzie są w normalnej sprzedaży w salonach gier. Alternatywnie można zamówić od chińskiego sprzedawcy na przykład na Aliexpress karty Felica i takich używać do logowania do gier.   
 Wyniki nie są przechowywane na karcie, ale karta jest używana jako klucz dostępu do profilu na serwerze. Wacca jest podłączona do sieci która pozwala na jedną kartę per profil.
+</details>
 
-Zalecenia co do postowania na mediach społecznościowych: nie wrzucać publicznie nagrań z gry ani zdjęć z widocznym ekranem innym niż attract loop (ekran poza czasem aktywnego grania przez kogoś na automacie).
+Zalecenia co do postowania na mediach społecznościowych: **nie wrzucać publicznie nagrań z gry** ani zdjęć z widocznym ekranem innym niż attract loop (ekran poza czasem aktywnego grania przez kogoś na automacie).
 
 ## tl;dr
 
@@ -85,7 +88,9 @@ W trakcie gry nuty pojawiają się w środku ekranu i lecą z ustawioną wcześn
 Aby zagrać nutę należy dotknąć pierścienia w miejscu do którego leci nuta w momencie gdy nuta dotyka do judgement line.  
 Gra ocenia to, jak dobrze się gra na podstawie tego, jak blisko idealnego momentu w czasie dotykamy nuty oraz czy nie pomijamy nut.
 
-Po zakończeniu piosenki pokazywana jest plansza z wynikiem. Wyszczególnione są tam oceny za wszystkie trafienia, ile z nich było za wcześnie lub za późno oraz ocena.
+Po zakończeniu piosenki pokazywana jest plansza z wynikiem. Wyszczególnione są tam oceny za wszystkie trafienia, ile z nich było za wcześnie lub za późno oraz ocena.  
+Dodatkowo pokazane są również otrzymane punkty RP oraz rating gracza.
+
 <details>
   <summary>System ocen w Wacce</summary>
 Skala ocen punktowych w Wacce wygląda następująco:
@@ -122,3 +127,26 @@ Za wielokrotne osiągnięcie All Marvelous na danym poziomie trudności tej same
 |5|Czerwony|
 |10|Fioletowy| 
 </details>
+
+## Profil gracza
+
+Po grze z kartą możliwe jest sprawdzanie swoich wyników w przeglądarkowym interfejsie (webui).  
+Aby móc do niego się dostać należy na automacie odczytać access code swojej karty.
+
+<details>
+<summary>Sprawdzanie access code</summary>
+  Aby sprawdzić access code należy użyć automatu i swojej karty.
+  1. Odczytaj kartę na automacie  
+      - W trakcie attract mode kiedy czytnik świeci się na biało przyłóż do niego swoją kartę.
+      - Prawidłowy odczyt jest oznaczony podświetleniem czytnika na niebiesko.
+  2. Na następnym ekranie powinna się pokazać na górze nazwa twojego konta i jego główne statystyki.
+  3. Naciśnij położony po prawej stronie przycisk podpisany `Access code`.
+  4. Zanotuj wyświetlony numer lub zrób jego zdjęcie - to twój access code potrzebny do dostępu do webui.
+</details>
+
+Webui do Wacci to [Mithical](https://webui.wacca.plus).  
+Przy pierwszym skorzystaniu trzeba dodać do niego swoją kartę używając menu `Manage your cards` i wpisując swój access code.  
+Po podaniu prawidłowego numeru karty można przejść do webui używając przycisku `Wacca` na górnej belce.
+
+Interfejs webui pozwala sprawdzać swoje wyniki, odblokowane przedmioty, leaderboardy per piosenka/poziom trudności oraz używać zdobytych RP do gaczy.  
+RP są potrzebne w grze do odblokowywania dodatkowych piosenek i poziomów trudności, jednak można je również wydać na gaczę aby odblokować dodatkowe kosmetyki.
