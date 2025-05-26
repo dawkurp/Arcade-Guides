@@ -133,15 +133,16 @@ Za wielokrotne osiągnięcie All Marvelous na danym poziomie trudności tej same
 Po grze z kartą możliwe jest sprawdzanie swoich wyników w przeglądarkowym interfejsie (webui).  
 Aby móc do niego się dostać należy na automacie odczytać access code swojej karty.
 
-<details>
-<summary>Sprawdzanie access code</summary>
-  Aby sprawdzić access code należy użyć automatu i swojej karty.
+<details>  
+<summary>Sprawdzanie access code</summary>  
+  Aby sprawdzić access code należy użyć automatu i swojej karty.  
+  
   1. Odczytaj kartę na automacie  
-      - W trakcie attract mode kiedy czytnik świeci się na biało przyłóż do niego swoją kartę.
-      - Prawidłowy odczyt jest oznaczony podświetleniem czytnika na niebiesko.
-  2. Na następnym ekranie powinna się pokazać na górze nazwa twojego konta i jego główne statystyki.
-  3. Naciśnij położony po prawej stronie przycisk podpisany `Access code`.
-  4. Zanotuj wyświetlony numer lub zrób jego zdjęcie - to twój access code potrzebny do dostępu do webui.
+      - W trakcie attract mode kiedy czytnik świeci się na biało przyłóż do niego swoją kartę.  
+      - Prawidłowy odczyt jest oznaczony podświetleniem czytnika na niebiesko.  
+  2. Na następnym ekranie powinna się pokazać na górze nazwa twojego konta i jego główne statystyki.  
+  3. Naciśnij położony po prawej stronie przycisk podpisany `Access code`.  
+  4. Zanotuj wyświetlony numer lub zrób jego zdjęcie - to twój access code potrzebny do dostępu do webui.  
 </details>
 
 Webui do Wacci to [Mithical](https://webui.wacca.plus).  
