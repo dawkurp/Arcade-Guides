@@ -41,6 +41,8 @@ Nuty mają kilka typów:
 - nuty do przeciągnięcia przez nie w dowolnym kierunku (domyślnie żółte)
 - nuty do pociągnięcia w wyznaczonym kierunku (zielone - w prawo, pomarańczowe - w lewo, czerwone - w przód, niebieskie - w tył)
 
+![Nuty w Wacce](img_wacca_pc.png)
+
 Zaliczenie piosenki jest rozpatrywane na podstawie końcowego wyniku punktowego i każdy poziom trudności ma inny próg zaliczenia.   
 W trakcie grania piosenki powyżej środka ekranu wyświetlony jest pasek pokazujący postęp w zdobywaniu punktów z zaznaczonym w poprzek progiem zaliczenia. Dodatkowo w momencie zaliczenia piosenki aktualnie wybrany nawigator odtwarza specjalną kwestię.
 
